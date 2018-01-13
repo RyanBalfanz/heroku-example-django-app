@@ -4,10 +4,12 @@
   },
   "env": {
     "DISABLE_COLLECTSTATIC": {
-      "required": true
+      "required": true,
+      "value": "1"
     },
     "DJANGO_SETTINGS_MODULE": {
-      "required": true
+      "required": true,
+      "value": "myapp.settings_production"
     }
   },
   "formation": {
