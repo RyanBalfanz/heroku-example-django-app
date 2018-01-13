@@ -5,7 +5,7 @@
   "env": {
     "DISABLE_COLLECTSTATIC": {
       "required": true,
-      "value": 1
+      "value": "1"
     },
     "DJANGO_SETTINGS_MODULE": {
       "required": true,
